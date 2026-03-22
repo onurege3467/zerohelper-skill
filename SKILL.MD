@@ -7,7 +7,7 @@ description: >
   "functions.security_module", "ZeroWorker", "MigrationManager", "DataSeeder", or any mention of
   ZeroHelper's database adapters (zpack, toon, json, sqlite, mysql, postgres, mongodb, redis via zerohelper).
   Always use this skill when writing code that imports from '@onurege3467/zerohelper', even if the user
-  doesn't explicitly say "zerohelper" — infer from the import path.
+  doesn't explicitly say "zerohelper" — infer from the '@onurege3467/zerohelper'.
 ---
 
 # ZeroHelper Skill
